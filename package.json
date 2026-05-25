@@ -1,0 +1,26 @@
+{
+  "name": "acharya-ravi-kishore-katha-booking",
+  "version": "1.0.0",
+  "description": "Professional katha booking website for Acharya Ravi Kishore Ji Maharaj",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "npx http-server",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": [
+    "katha",
+    "spiritual",
+    "vedic",
+    "booking",
+    "acharya",
+    "discourse"
+  ],
+  "author": "Acharya Ravi Kishore Ji Maharaj",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashutoshanand335-bit/Acharya-Ravi-Kishore-Ji-Maharaj.git"
+  },
+  "homepage": "https://your-domain.com"
+}

@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /admin/
+
+Sitemap: https://yourdomain.com/sitemap.xml
+
+# Common bot rules
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: baiduspider
+Allow: /
+
+# Delay for aggressive crawlers
+User-agent: *
+Crawl-delay: 1
